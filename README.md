@@ -21,6 +21,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nq001&icon=0&color=0)](https://visitcount.itsvg.in)
-<h1 style="display: flex; justify-content: center; align-items: center;">Naif M. Alqubalee<</h1>
+<h1 style="display: flex; justify-content: center; align-items: center;">Naif M. Alqubalee</h1>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
