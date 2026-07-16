@@ -4,6 +4,15 @@
 
 <br>
 
+<br>
+
+<p align="center">
+  <samp>
+    Building scalable systems one endpoint at a time.<br>
+    Currently crafting backends with Node.js, NestJS & PostgreSQL.
+  </samp>
+</p>
+
 <p align="center">
   <a href="mailto:naif@qubalee.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
