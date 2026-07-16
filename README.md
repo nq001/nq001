@@ -6,7 +6,7 @@
 
 <br>
 
-<p align="center">
+<p align="center" font-family="Black Ops One, Impact, sans-serif>
   <samp>
     Building scalable systems one endpoint at a time.<br>
     Currently crafting backends with Node.js, NestJS & PostgreSQL.
