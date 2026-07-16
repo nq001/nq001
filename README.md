@@ -6,7 +6,11 @@
 
 <br>
 
-<p align="center" font-family="Black Ops One, Impact, sans-serif>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
+</style>
+
+<p align="center" font-family: "Black Ops One", system-ui">
   <samp>
     Building scalable systems one endpoint at a time.<br>
     Currently crafting backends with Node.js, NestJS & PostgreSQL.
