@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".../github-banner-balanced.svg?v=2" width="100%" alt="Naif Alqubalee - Backend Developer" />
+  <img src="https://raw.githubusercontent.com/nq001/nq001/main/github-banner-balanced.svg" width="100%" alt="Naif Alqubalee - Backend Developer" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Naif Alqubalee</h1>
