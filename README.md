@@ -6,15 +6,8 @@
 
 <br>
 
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
-</style>
-
-<p align="center" font-family: "Black Ops One", system-ui">
-  <samp>
-    Building scalable systems one endpoint at a time.<br>
-    Currently crafting backends with Node.js, NestJS & PostgreSQL.
-  </samp>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nq001/nq001/main/tagline.png" width="600" />
 </p>
 
 <p align="center">
