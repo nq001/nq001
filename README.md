@@ -1,77 +1,44 @@
-<div align="center">
-  <!-- Animated Waving Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Hi%20there,%20I'm%20Naif%20Alqubalee!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=00FF99&desc=Backend%20Engineer&descAlignY=55&descAlign=50" alt="Header Banner" />
+# Naif Alqubalee
+**Backend Engineer | Node.js • NestJS • PostgreSQL**
 
-  <!-- Animated Typing Text -->
-  <a href="https://github.com/nq001">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&height=50&lines=Backend+Engineer;NestJS+%7C+Node.js+%7C+PostgreSQL;Building+Scalable+Backend+Systems;Computer+Science+Graduate;Exploring+LLMs+%26+AI+Architectures" alt="Typing SVG" />
+I am a software engineer focused on architecting and building scalable, robust server-side applications. With a foundation in Computer Science from Hadhramaut University and a deep interest in AI agent workflows, I prioritize clean code, database integrity, and high-performance system design.
+
+---
+
+### 💻 Core Competencies
+
+*   **Languages:** JavaScript, TypeScript, SQL
+*   **Backend Frameworks:** Node.js, Express.js, NestJS
+*   **Databases:** PostgreSQL, Redis, Supabase
+*   **DevOps & Architecture:** Docker, RESTful APIs, System Design, Concurrency Control
+*   **Current Research:** Large Language Models (LLMs) and LLM architecture
+
+---
+
+### 🏗️ What I Do
+
+*   **API Design:** Crafting secure and efficient endpoints that power seamless front-end experiences.
+*   **Database Optimization:** Tuning SQL queries and managing relational data for maximum speed and integrity.
+*   **System Architecture:** Building systems designed to scale, handling heavy loads "one endpoint at a time."
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nq001&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Naif's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nq001&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
+</div>
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/naifalqubalee" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
-
----
-
-### 👨‍💻 About Me
-
-I am a **Backend Engineer** based in Yemen, passionate about architecting, building, and optimizing robust server-side applications. As a recent Computer Science graduate from Hadhramaut University, I blend strong theoretical foundations with practical engineering skills to deliver highly scalable, production-ready systems. 
-
-- 🔭 Currently crafting backends with **Node.js, NestJS & PostgreSQL**.
-- 🧠 Deeply interested in integrating **Large Language Models (LLMs)**, AI agent workflows, and advanced system architectures into practical applications.
-- ⚙️ Focused on clean code, RESTful API design, database integrity, and Docker containerization.
-- 💬 Ask me about **Backend Development, SQL tuning, and API architecture**.
-- 📫 Reach out to me: **[My Portfolio](https://naif.qubalee.com/)** or connect on **[LinkedIn](https://linkedin.com/in/naifalqubalee)**.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-  <h4>Languages</h4>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  
-  <h4>Backend & Frameworks</h4>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  
-  <h4>Databases & Cloud</h4>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  
-  <h4>DevOps & Version Control</h4>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nq001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Naif's GitHub Stats" />
-  <br><br>
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nq001&theme=tokyonight&hide_border=true&background=0D1117" alt="Naif's GitHub Streak" />
-  <br><br>
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nq001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
----
-
-### 🤝 Let's Connect
-
-<div align="center">
-  <a href="https://linkedin.com/in/naifalqubalee"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://naif.qubalee.com"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" /></a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nq001&color=00FF99&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+  <a href="https://naif.qubalee.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
