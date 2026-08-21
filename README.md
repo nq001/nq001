@@ -27,7 +27,7 @@ I am a software engineer focused on architecting and building scalable, robust s
 
 <div align="center">
   <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nq001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Naif's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=nq001&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Naif's GitHub Stats" />
   <br><br>
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nq001&theme=tokyonight&hide_border=true&background=0D1117" alt="Naif's GitHub Streak" />
