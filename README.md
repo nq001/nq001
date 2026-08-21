@@ -1,10 +1,10 @@
 <div align="center">
   <!-- Animated Waving Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Hi%20there,%20I'm%20Naif%20Alqubalee!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Backend%20Engineer&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Hi%20there,%20I'm%20Naif%20Alqubalee!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=00FF99&desc=Backend%20Engineer&descAlignY=55&descAlign=50" alt="Header Banner" />
 
   <!-- Animated Typing Text -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&height=50&lines=Backend+Engineer;NestJS+%7C+Node.js+%7C+PostgreSQL;Building+Scalable+Backend+Systems;Computer+Science+Graduate" alt="Typing SVG" />
+  <a href="https://github.com/nq001">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&height=50&lines=Backend+Engineer;NestJS+%7C+Node.js+%7C+PostgreSQL;Building+Scalable+Backend+Systems;Computer+Science+Graduate;Exploring+LLMs+%26+AI+Architectures" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,12 +12,12 @@
 
 ### 👨‍💻 About Me
 
-I am a **Backend Engineer** based in Yemen, passionate about architecting, building, and optimizing robust server-side applications. As a recent Computer Science graduate from Hadhramaut University, I blend strong theoretical foundations with practical engineering skills to deliver scalable systems. 
+I am a **Backend Engineer** based in Yemen, passionate about architecting, building, and optimizing robust server-side applications. As a recent Computer Science graduate from Hadhramaut University, I blend strong theoretical foundations with practical engineering skills to deliver highly scalable, production-ready systems. 
 
 - 🔭 Currently crafting backends with **Node.js, NestJS & PostgreSQL**.
-- 🌱 Continually expanding my expertise in **Large Language Models (LLMs)**, AI agent workflows, and advanced system architecture.
-- ⚙️ Focused on clean code, RESTful API design, database integrity, and concurrency control.
-- 💬 Ask me about **Backend Development, Docker containerization, and SQL tuning**.
+- 🧠 Deeply interested in integrating **Large Language Models (LLMs)**, AI agent workflows, and advanced system architectures into practical applications.
+- ⚙️ Focused on clean code, RESTful API design, database integrity, and Docker containerization.
+- 💬 Ask me about **Backend Development, SQL tuning, and API architecture**.
 - 📫 Reach out to me: **[My Portfolio](https://naif.qubalee.com/)** or connect on **[LinkedIn](https://linkedin.com/in/naifalqubalee)**.
 
 ---
@@ -26,24 +26,24 @@ I am a **Backend Engineer** based in Yemen, passionate about architecting, build
 
 <div align="center">
   <h4>Languages</h4>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   
   <h4>Backend & Frameworks</h4>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   
   <h4>Databases & Cloud</h4>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   
   <h4>DevOps & Version Control</h4>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </div>
 
 ---
