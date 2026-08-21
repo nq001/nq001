@@ -25,7 +25,7 @@ I am a software engineer focused on architecting and building scalable, robust s
 
 ### 📊 GitHub Activity
 
-<div align="center">
+<div align="center" display="flex">
   <!-- Main Stats -->
   <img src="https://github-stats-extended.vercel.app/api?username=nq001&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Naif's GitHub Stats" />
   <br><br>
