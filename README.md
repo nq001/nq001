@@ -26,8 +26,14 @@ I am a software engineer focused on architecting and building scalable, robust s
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nq001&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&v=1" alt="Naif's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nq001&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&v=1" alt="Top Languages" width="48%" />
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=nq001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Naif's GitHub Stats" />
+  <br><br>
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nq001&theme=tokyonight&hide_border=true&background=0D1117" alt="Naif's GitHub Streak" />
+  <br><br>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nq001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
