@@ -7,11 +7,11 @@ I am a software engineer focused on architecting and building scalable, robust s
 
 ### 💻 Core Competencies
 
-*   **Languages:** JavaScript, TypeScript, SQL
+*   **Languages:** JavaScript, TypeScript, SQL, Python, Dart, C#
 *   **Backend Frameworks:** Node.js, Express.js, NestJS
-*   **Databases:** PostgreSQL, Redis, Supabase
-*   **DevOps & Architecture:** Docker, RESTful APIs, System Design, Concurrency Control
-*   **Current Research:** Large Language Models (LLMs) and LLM architecture
+*   **Databases:** SQL Server, PostgreSQL, Redis, Supabase
+*   **DevOps & Architecture:** Docker, RESTful APIs, System Design, Concurrency Control, GitHub, Git, vs code
+*   **Current Research:** The Systemic Design Patterns
 
 ---
 
