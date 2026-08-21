@@ -42,8 +42,7 @@ I am a software engineer focused on architecting and building scalable, robust s
 
 ---
 
-### 📫 Connect With Me
-
+<h3 align="center">📫 Connect With Me</h3>
 <p align="center">
   <a href="https://linkedin.com/in/naifalqubalee" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
