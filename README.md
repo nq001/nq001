@@ -25,13 +25,17 @@ I am a software engineer focused on architecting and building scalable, robust s
 
 ### 📊 GitHub Activity
 
-<div display="flex">
+<div align="start">
   <!-- Main Stats -->
   <img  src="https://github-stats-extended.vercel.app/api?username=nq001&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Naif's GitHub Stats" />
-  <br><br>
+</div>
+<br><br>
+<div align="center">
   <!-- Streak Stats -->
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=nq001&theme=tokyonight&hide_border=true&background=0D1117" alt="Naif's GitHub Streak" />
-  <br><br>
+</div>
+<br><br>
+<div align="end">
   <!-- Top Languages -->
   <img  src="https://github-stats-extended.vercel.app/api/top-langs/?username=nq001&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 </div>
